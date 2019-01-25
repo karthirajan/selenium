@@ -6,7 +6,7 @@ public class Sample {
 
 	}
 	public void test2() {
-		System.out.println("second class");
+		System.out.println("fourth class class");
 
 	}
 
